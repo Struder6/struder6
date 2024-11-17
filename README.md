@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**Struder6/struder6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About The greatest of myselfs
+I'm a newbie in IT.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm DD! 👋
+
+
+## 🔗 Links
+
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/HisMajestyArthas)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/640131257233047562/)
+
+
+🧠 I'm currently learning C++
+
+💬 Ask me about https://t.me/HisMajestyArthas
+
+
+## 🛠 Skills
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+## Stats
+![DD's GitHub stats](https://github-readme-stats.vercel.app/api?username=Struder6&show_icons=true&theme=transparent)
