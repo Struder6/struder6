@@ -27,5 +27,7 @@ I'm a newbie in IT.
 
 ## Email ✉️ 
 In case your ass is too oficial for telegram:
+
 kernelpanic1488@gmail.com
+
 In case you want to recruit me as a developer, please contact me at telegram. If I'm not responding, comment any of my repo`s. Thanks!
