@@ -1,9 +1,10 @@
 
 ## About The greatest of myselfs
-I'm a newbie in IT.
+I'm still a newbie in IT, but I already know a few things.
+[spoiler] Maybe how to install and configure linux
 
 
-# Hi, I'm DD! 👋
+# Hi, I'm DostavshikDiscomforta! 👋
 
 
 ## 🔗 Links
