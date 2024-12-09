@@ -12,9 +12,9 @@ I'm a newbie in IT.
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/640131257233047562/)
 
 
-🧠 I'm currently learning C++
+🧠 I'm currently learning C++ and Python🐍
 
-💬 Ask me about https://t.me/HisMajestyArthas
+💬 There you cat contact me anytime https://t.me/HisMajestyArthas
 
 
 ## 🛠 Skills
@@ -24,3 +24,8 @@ I'm a newbie in IT.
 
 ## Stats
 ![DD's GitHub stats](https://github-readme-stats.vercel.app/api?username=struder6&show_icons=true&theme=transparent)
+
+## Email ✉️ 
+In case your ass is too oficial for telegram:
+kernelpanic1488@gmail.com
+In case you want to recruit me as a developer, please contact me at telegram. If I'm not responding, comment any of my repo`s. Thanks!
